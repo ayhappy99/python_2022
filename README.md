@@ -1,1 +1,3 @@
-# python_2022
+# python
+
+### python 연습
